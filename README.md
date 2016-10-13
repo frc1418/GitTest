@@ -1,11 +1,15 @@
 # GitTest
-Team 1418's github test used to help new members learn git
+Team 1418's github test. Team 1418 is currently introducing their new members to git through codecademy. This is designed in order to prove that new members have a working knowledge of git syntax. Each member will complete this test in front of a leader.
 
 # The Challenges
 
 ### Cloning this repository
 
 - Clone this repository
+- `cd` into the cloned repo
+- Update the repository with `git pull` (it will already be updated)
+- Use the command `git status` to make sure you are on the `master` branch
+- Use the command `git log` to view the commit history
 
 ### Merge Conflicts
 
@@ -17,6 +21,7 @@ Team 1418's github test used to help new members learn git
 
 - Create a new file called `happy.txt`
 - Write out `Happy birthday to you` on the first line and save the file
+- Use the command `git diff` to view the changes you just made
 - Add the file to git tracking
 - Make a commit with a good message including that file creation
 
