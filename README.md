@@ -16,6 +16,7 @@ Team 1418's github test. Team 1418 is currently introducing their new members to
 - Merge the branch called `alpha` into the `master` branch
 - Fix the merge conflicts in `text.txt` by taking the changes from `alpha` and discarding those in `master`
 - Fix the merge conflicts in `robo.py` by keeping both changes
+- Create a new commit with the merged files
 
 ### Commiting files
 
@@ -47,4 +48,4 @@ Team 1418's github test. Team 1418 is currently introducing their new members to
 
 - Checkout the `master` branch
 - Use the command `git reset` to reset to the commit before the first challenge task
-- The first commit in the log should then be `fixed challenges`
+- The first commit in the log should then be `fixed commiting`
