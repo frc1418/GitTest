@@ -1,0 +1,6 @@
+#Emacs auto-save
+~*
+
+#Eclipse
+.project
+.pydevproject
