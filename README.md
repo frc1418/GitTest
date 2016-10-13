@@ -21,18 +21,13 @@ Team 1418's github test. Team 1418 is currently introducing their new members to
 
 - Create a new file called `happy.txt`
 - Write out `Happy birthday to you` on the first line and save the file
-- Use the command `git diff` to view the changes you just made
 - Add the file to git tracking
 - Make a commit with a good message including that file creation
-
-### Reseting
-
-- Use the command `git reset` to reset to the commit before the `Commiting files` task
 
 ### Branching
 
 - Create a new branch called `beta`
-- Edit `text.txt` to add your name and data at the bottom of the file.
+- Edit `text.txt` to add your name and date at the bottom of the file.
 - Add the `text.txt` changes to the staging area
 - Make a commit with a good message that includes that file
 
@@ -47,3 +42,9 @@ Team 1418's github test. Team 1418 is currently introducing their new members to
 ### Pull requests
 
 - Create a GitHub pull request from the branch `bravo` on **your fork** to `master` on the **main repo** on Team 1418's GitHub
+
+### Reseting
+
+- Checkout the `master` branch
+- Use the command `git reset` to reset to the commit before the first challenge task
+- The first commit in the log should then be `fixed challenges`
