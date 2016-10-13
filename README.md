@@ -37,15 +37,15 @@ Team 1418's github test. Team 1418 is currently introducing their new members to
 
 - Create a fork of this repository on your github account
 - Add your fork as a `git remote` named `me`
-- Checkout the branch you edited called `bravo`
-- Push your changes of `text.txt` to your fork of this repo on the `bravo`branch
+- Checkout the branch you edited called `beta`
+- Push your changes of `text.txt` to your fork of this repo on the `beta`branch
 
 ### Pull requests
 
-- Create a GitHub pull request from the branch `bravo` on **your fork** to `master` on the **main repo** on Team 1418's GitHub
+- Create a GitHub pull request from the branch `beta` on **your fork** to `master` on the **main repo** on Team 1418's GitHub
 
 ### Reseting
 
 - Checkout the `master` branch
 - Use the command `git reset` to reset to the commit before the first challenge task
-- The first commit in the log should then be `fixed commiting`
+- The first commit in the log should then be `Changed bravo to beta`
