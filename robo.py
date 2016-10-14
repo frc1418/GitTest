@@ -3,6 +3,7 @@ class Robot():
         self.bender()
         self.hal()
         self.r2d2()
+        self.wall_e()
     
     def bender(self):
         print('Kill all humans!')
@@ -15,6 +16,9 @@ class Robot():
         
     def r2d2(self):
         print('Beep Bloop Blop Bleep Boop')
+
+    def wall_e(self):
+        print('W--Wall-E!')
     
     def robo_cop(self):
         print('Dead or alive, you\'re coming with me!')
