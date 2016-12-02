@@ -1,5 +1,6 @@
 Dirge Without Music
-By EDNA St. VINCENT MILLAY 
+By Carter Fendley
+>>>>>>> origin/alpha
 
 I am not resigned to the shutting away of loving hearts in the hard ground.
 So it is, and so it will be, for so it has been, time out of mind:
