@@ -2,6 +2,7 @@ class Robot():
     def __init__(self):
         self.bender()
         self.hal()
+        self.wall_e()
         self.r2d2()
     
     def bender(self):
@@ -13,6 +14,8 @@ class Robot():
     def c3po(self):
         print('R2-D2, it is you, It Is You !')
         
+    def wall_e(self):
+        print('W--Wall-E!')
     def r2d2(self):
         print('Beep Bloop Blop Bleep Boop')
     
